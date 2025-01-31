@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-prac-proj/static/css/main.4485bd3d.css",
+    "main.js": "/React-prac-proj/static/js/main.a766145d.js",
+    "index.html": "/React-prac-proj/index.html",
+    "main.4485bd3d.css.map": "/React-prac-proj/static/css/main.4485bd3d.css.map",
+    "main.a766145d.js.map": "/React-prac-proj/static/js/main.a766145d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4485bd3d.css",
+    "static/js/main.a766145d.js"
+  ]
+}
